@@ -4,7 +4,6 @@ Here I have implemented a basic Recipe Application using React-Redux. There are 
 
 | **Dependency** | **Use** |
 |----------|-------|
-
 |bootstrap|CSS Framework|
 |styled components|React Library for component level styles|
 |react|React library |
